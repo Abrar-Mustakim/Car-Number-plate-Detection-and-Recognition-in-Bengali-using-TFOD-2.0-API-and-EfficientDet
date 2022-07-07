@@ -1,6 +1,8 @@
 # Car-Number-plate-Detection-and-Recognition-in-Bengali-using-TFOD-2.0-API-and-EfficientDet
 
-I have used Kaggle Dataset for detecting and Bangla OCR for recognizing the number plates. I have completed the full project in my google colab mounted in google drive.<br>
+I have used Kaggle Dataset for detecting and Bangla OCR for recognizing the number plates. Here is the link: <br>
+https://www.kaggle.com/datasets/andrewmvd/car-plate-detection <br>
+I have completed the full project in my google colab mounted in google drive.<br>
 
 Here is the drive link: <br>
 https://drive.google.com/drive/folders/1EFOHM_pDrnlVi3ehWewkOJ5w_evPPN85?usp=sharing <br> 
